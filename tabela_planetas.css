@@ -1,0 +1,42 @@
+  table{
+            border-collapse: collapse;
+        }
+        caption{
+            font-family:'Times New Roman', Times, serif;
+            font-weight: bold;
+            font-size: 20px;
+            color: black;
+            margin-bottom: 20px;
+        }
+        .destacar{
+            color: red;
+        }
+        td{
+            border: 1px solid black;
+            padding: 10px;
+            text-align: center;
+            
+        }
+        img{
+            padding-left: 15px;
+            padding-right: 15px;
+        }
+        th{
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 22px;
+            text-align: center;
+           padding-bottom: 10px;
+        }
+        .distancia{
+            padding-left: 10px;
+        }
+        .destacardois{
+            color: blue;
+        }
+        .fonte{
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        .planetas{
+            padding: 20px;
+        }
+        
